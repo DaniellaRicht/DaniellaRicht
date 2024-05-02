@@ -2,8 +2,8 @@
 
 - 👀 Data Analytics / Marketing Automation Professional
 - 📍 München, Deutschland
-- 📧 [daniella-richt@hotmail.co.uk]([mailto:daniella-richt@hotmail.co.uk))
-- 🔗 [Linkedin]([https://pages.github.com/](https://www.linkedin.com/in/daniella-richt/))
+- 📧 [daniella-richt@hotmail.co.uk](mailto:daniella-richt@hotmail.co.uk)
+- 🔗 [Linkedin](https://www.linkedin.com/in/daniella-richt/)
 
 ## About Me 🌐
 Blending 7+ years in Digital marketing, Marketing Automation and Data Analytics.
@@ -19,6 +19,8 @@ Blending 7+ years in Digital marketing, Marketing Automation and Data Analytics.
 - Frameworks & Libraries: Pandas, Matplotlib
 - Tools: Marketo, Salesforce, Excel, Tableau, Jupyter Notebook, PostgreSQL, Google Analytics, Hubspot, Hootsuite, PowerBI
 
+## Data Analytics Portfolio
+[Portfolio](https://drive.google.com/file/d/1uKBKMPjFJadjzpW-uraGtEcyx3mQQ0gl/view?usp=sharing)
 <!---
 DaniellaRicht/DaniellaRicht is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
